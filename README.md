@@ -28,6 +28,8 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 ## Deploy to heroku 🗳
 
+## Deploy to heroku 🗳
+
 - Step 1: Fork the Repo
 
 - Step 2: Edit your fork Repo. Like Change Repo Name
